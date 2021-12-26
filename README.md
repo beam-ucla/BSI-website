@@ -1,4 +1,4 @@
-# BsI Website
+# BSI Website
 
 More to come here!
 
