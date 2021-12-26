@@ -1,0 +1,25 @@
+# title, description, image, url
+- title: About BEAM
+  description: Learn more about BSI/BEAM
+  image: assets/images/mark.jpg
+  url: pages/about.html
+
+- title: FAQs
+  description: FAQs description
+  image: assets/images/mark.jpg
+  url: pages/faqs.html
+
+- title: BEAM Lesson Plans
+  description: Learn more about our weekly lessons!
+  image: assets/images/mark.jpg
+  url: pages/lessons.html
+
+- title: Great Science Resources
+  description: Resources for students to learn more about science!
+  image: assets/images/mark.jpg
+  url: pages/resources.html
+
+- title: Contact
+  description: Have a question that we haven't answered? Get in touch with us!
+  image: assets/images/mark.jpg
+  url: pages/contact.html

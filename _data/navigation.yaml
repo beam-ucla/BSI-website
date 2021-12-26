@@ -1,0 +1,18 @@
+nav:
+  - title: About
+    url: pages/about.html
+
+  - title: FAQs
+    url: pages/faqs.html
+
+  - title: Lesson Plans
+    url: pages/lessons.html
+
+  - title: Resources
+    url: pages/resources.html
+
+  - title: For Students
+    url: pages/for-students.html
+
+  - title: Contact Us
+    url: pages/contact.html
