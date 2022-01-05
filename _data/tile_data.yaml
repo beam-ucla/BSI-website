@@ -1,11 +1,11 @@
 # title, description, image, url
 - title: About BEAM
-  description: Learn more about Bruin STEM Initiative/Building Engineers and Mentors
+  description: Learn more about Building Engineers and Mentors (BEAM)
   image: assets/images/logos/fullLogo.png
   url: pages/about.html
 
 - title: FAQs
-  description: Got a question about joining? Current BEAM/BSI operations? COVID? This is the page for you!
+  description: Got a question about joining? Current BEAM operations? COVID? This is the page for you!
   image: assets/images/mark.jpg
   url: pages/faqs.html
 
