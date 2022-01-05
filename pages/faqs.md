@@ -2,7 +2,6 @@
 layout: pageset
 title: Frequently Asked Questions
 description: FAQ Description
-image: assets/images/mark.jpg
 nav-menu: true
 ---
 

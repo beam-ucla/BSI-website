@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Elements
-image: assets/images/mark.jpg
 show_tile: false
 # nav-menu: true
 ---
