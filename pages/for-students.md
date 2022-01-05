@@ -11,6 +11,8 @@ Welcome Melrose and Crescent Heights students! This page is for you to look back
 
 February 5th Crescent Heights Coding Lesson Link --> [Click here!](https://planet.mblock.cc/project/575606)
 
+## [Click here for other Great Science Resources!]({{site.baseurl}}/pages/resources.html)
+
 ## Balloon Racers
 
 [![Balloon Racers](https://img.youtube.com/vi/_-Hf93S8EdY/0.jpg)](https://www.youtube.com/watch?v=_-Hf93S8EdY "Balloon Racers")
