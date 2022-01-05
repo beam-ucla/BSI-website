@@ -12,4 +12,4 @@ show_tile: false
 
 <!-- BSI/BEAM at UCLA. Bringing STEM to elementary schools (because science is awesome!) -->
 
-Get to know our team!
+Every week, we visit classes after school to perform experiments and give lessons covering various topics like biology, chemistry, or physics. Our hands-on activities include bridge building, making slime, programming robots, and blasting off stomp rockets!

@@ -6,12 +6,6 @@ description: Bringing STEM to elementary schools (because science is awesome!)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://beam.ucla.edu" # the base hostname & protocol for your site, e.g. http://example.com
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
 
 interest_form: "https://docs.google.com/forms/d/e/1FAIpQLScvASHtEydXgQD_bC19ak4KgqcS9TxU5gJTWzzXyaVYL7fKww/viewform"
 

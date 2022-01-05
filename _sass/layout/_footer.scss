@@ -1,6 +1,11 @@
 /* Footer */
 
 #footer {
+  background-color: _palette(highlight-light);
+  // position: absolute;
+  // bottom: 0;
+  // width: 100%;
+
   .copyright {
     font-size: 0.8em;
     list-style: none;

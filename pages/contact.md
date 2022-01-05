@@ -2,7 +2,6 @@
 layout: pageset
 title: Contact
 description: Have a question that we haven't answered? Get in touch with us!
-image: assets/images/mark.jpg
 nav-menu: true
 ---
 

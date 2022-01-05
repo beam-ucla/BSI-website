@@ -2,13 +2,10 @@
 layout: pageset
 title: Who are we?
 description: Get to know the mentors
-image: assets/images/mark.jpg
 nav-menu: true
 ---
 
-## Who's behind BSI/BEAM?
-
-Here's our board for the 2020-2021 school year:
+### Here's our board for the 2020-2021 school year:
 
 - **President:** Kara Levy (Materials Science & Engineering)
 - **Internal Vice President:** Karine Kim (Physiological Science & Anthropology)
@@ -23,6 +20,6 @@ Here's our board for the 2020-2021 school year:
 - **Supplies Manager:** Maya Chatrathi (Electrical Engineering)
 - **Web Master:** Sudarshan Seshadri (Electrical Engineering)
 
-# Mentors
+<!-- # Mentors
 
-All the mentors go here!
+All the mentors go here! -->

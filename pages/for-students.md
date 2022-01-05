@@ -2,7 +2,6 @@
 layout: pageset
 title: For Students
 description: Resources that students use that are connected to our lessons
-image: assets/images/mark.jpg
 nav-menu: true
 ---
 

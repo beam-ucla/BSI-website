@@ -2,7 +2,6 @@
 layout: pageset
 title: About BEAM and FAQs
 description: Learn more about BSI/BEAM
-image: assets/images/mark.jpg
 nav-menu: true
 ---
 
