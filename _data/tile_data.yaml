@@ -9,7 +9,7 @@
   image: assets/images/mark.jpg
   url: pages/faqs.html
 
-- title: BEAM Lesson Plans
+- title: Lesson Plans
   description: Learn more about what we teach each week!
   image: assets/images/BEAM_magnets.png
   url: pages/lessons.html
@@ -19,7 +19,7 @@
 #   image: assets/images/mark.jpg
 #   url: pages/resources.html
 
-- title: Contact
+- title: Contact Us
   description: Have a question that we haven't answered? Get in touch with us!
   image: assets/images/group_selfie.jpg
   url: pages/contact.html
