@@ -1,6 +1,6 @@
 # site settings
 title: BEAM
-subtitle: @ UCLA
+subtitle: at UCLA
 email: youremailaddress@gmail.com
 description: Bringing STEM to elementary schools (because science is awesome!)
 baseurl: "" # the subpath of your site, e.g. /blog
